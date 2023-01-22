@@ -1,0 +1,4 @@
+name: CustomEnchants
+version: '${project.version}'
+main: customenchantments.max.me.customenchants.CustomEnchants
+api-version: 1.18
